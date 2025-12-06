@@ -1,11 +1,11 @@
 # Loading Bar Assets
 
-![Advent of Code Banner](https://adventofcode.com/static/logo.png)
+![Description](bar.png)
 
 Welcome to the **Loading Animation** repository! 🎄✨
 
 ## 🚀 Overview
-This is a loading bar toy to spice up long running loops in a terminal. great for the [Advent of Code](https://adventofcode.com/) puzzles.
+This is a loading bar toy to spice up long running loops in a terminal. Great for the [Advent of Code](https://adventofcode.com/) puzzles.
 
 ## 📂 Project Structure
 ```
