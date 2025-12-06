@@ -25,8 +25,6 @@ loading_animations.py   # Fun loading animations for CLI
 
 ## ✨ Features
 - **Reusable Animations**: Spice up your CLI with `loading_animations.py`.
-- **Clean Templates**: Start your puzzle solutions quickly.
-- **Easy to Extend**: Add your own scripts and assets!
 
 ## 📦 Requirements
 - Python 3.11+
